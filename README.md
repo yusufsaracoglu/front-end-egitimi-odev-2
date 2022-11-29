@@ -1,0 +1,39 @@
+<!-- ismim -->
+<h1><span style="color:red">Yusuf Saraçoğlu</span></h1>
+<hr>
+<!-- 1. Kısım -->
+<h3><span style="color:purple">Hakkımda</span></h3>
+<p>Merhabalar ben Yusuf, İnşaat Mühendisliği bölümünden mezun oldum. Yazılıma ilgim olduğundan ve görsel tasarım konularında bilgim olduğundan front-end öğrenmeye karar verdim.</p>
+<hr>
+<div>
+    <!-- 2. Kısım -->
+    <h3><span style="color:orange">Hoşuma Gidenler</span></h3>
+    <ol>
+        <li><strong>Film ve Dizi</strong>
+            <ul>
+                <em>
+                    <li>Harry Potter Serisi</li>
+                    <li>Yüzüklerin Efendisi serisi</li>
+                    <li>Game of Thrones</li>
+                    <li>Dark</li>
+                </em>
+            </ul>
+        </li>
+        <li><strong>Oyun</strong>
+            <ul>
+                <em>
+                    <li>Assasin's Creed Serisi</li>
+                    <li>Fifa Serisi</li>
+                    <li>Counter Strike</li>
+                </em>
+            </ul>
+        </li>
+    </ol>
+</div>
+<hr>
+<!-- 3. Kısım -->
+<h2><span style="color:greenyellow">En Sevdiğim Kitap Serisi</span></h2>
+<!-- Kitap -->
+<h3><em>Wardstone Günlükleri</em></h3>
+<img src="images/1.jpg" alt="wardstone günlükleri" width="375" height="375">
+<p><strong><em>Joseph Delaney</em></strong>'in yazdığı, ilk kitabı 2004 yılında basılmış fanfastik korku kitap serisidir. <strong><em>Thomas Ward</em></strong> adında bir gencin <strong><em>Yaşlı Gregory</em></strong> uzmanlığında yeni bir hayalet olma macerası anlatılıyor.</p>
